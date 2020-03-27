@@ -23,6 +23,7 @@ unrar -e document.rar
 ```
 
 And now you have the document to search!
+
 For example, if you want to search "drill wood sharp".
 You can just type the code below: 
 
