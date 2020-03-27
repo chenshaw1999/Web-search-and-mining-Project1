@@ -13,9 +13,16 @@ If you don't have the following libraries, you can type following commands:
 pip3 install --user -U numpy
 pip3 install --user -U nltk
 ```
+So now you have the tools to help you run these codes!
 
 ## How to use the codes
-So now you have the tools to help you run these codes.
+
+Please first get into the document folder, and run
+```sh
+unrar -e document.rar
+```
+
+And now you have the document to search!
 For example, if you want to search "drill wood sharp".
 You can just type the code below: 
 
