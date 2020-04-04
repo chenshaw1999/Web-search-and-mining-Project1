@@ -37,8 +37,8 @@ And wait about 1 minute you will get your results!
 
 ```python
 TF = rawTF / sum(rawTF)
-(TF.shape = (2048, 2xxxx))
 ```
+(TF.shape = (2048, 2xxxx))
 ![image](https://github.com/chenshaw1999/Web-search-and-mining-Project1/blob/master/readme_Image/tf.png?raw=true)
 
 ```python
