@@ -38,11 +38,15 @@ And wait about 1 minute you will get your results!
 ```python
 TF[i][j] = rawTF[i][j] / sum(rawTF[i]) 
 (TF.shape = (2048, 2xxxx))
+```
 ![image](https://github.com/chenshaw1999/Web-search-and-mining-Project1/blob/master/readme_Image/tf.png?raw=true)
 
+```python
 IDF[i] = log10(2048 / (n_containing + 1))
+```
 ![image](https://github.com/chenshaw1999/Web-search-and-mining-Project1/blob/master/readme_Image/idf_2.png?raw=true)
 
+```python
 TFIDF = TF * IDF
 ```
 *All computation below is computed by numpy array.*
